@@ -1,0 +1,5 @@
+jconsole
+jvisualVM
+注记符：
+    anewarray: 表示创建一个引用类型的数组，并将其压入栈顶
+    newarray: 表示创建一个基本类型的数组
